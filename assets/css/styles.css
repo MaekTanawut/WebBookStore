@@ -1,0 +1,11 @@
+footer {
+  background: #282d32;
+}
+
+@media (min-width: 992px) {
+  #imageprofile {
+    border-right-style: solid;
+    border-right-color: #dee0e1;
+  }
+}
+
